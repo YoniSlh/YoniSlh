@@ -11,7 +11,7 @@
 
 #### 👨‍💻 Frontend  
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript  
-- **Frameworks & Libraries:** Tailwind CSS, Angular, Ionic
+- **Frameworks & Libraries:** React, Angular, Ionic, Tailwind CSS
 
 #### 🧠 Backend  
 - **Languages:** PHP, Python, C 
