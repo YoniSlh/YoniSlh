@@ -10,7 +10,7 @@
 ### 🛠️ Technical Skills
 
 #### 👨‍💻 Frontend  
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript  
+- **Languages:** HTML5/CSS3, JavaScript, TypeScript  
 - **Frameworks & Libraries:** React, Angular, Ionic, Tailwind CSS
 
 #### 🧠 Backend  
@@ -22,8 +22,8 @@
 ---
 
 ### 🧰 Tools & Environments  
-- **Dev Tools:** Git, GitHub, VS Code, Visual Studio, Trello, draw.io 
-- **Design:** Figma
+- **Dev Tools:** Git, GitHub, VS Code, Trello, draw.io 
+- **Design:** Figma, Photoshop
 - **OS:** Windows, Linux
 
 ---
