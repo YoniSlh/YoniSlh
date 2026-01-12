@@ -25,7 +25,3 @@
 - **Dev Tools:** Git, GitHub, VS Code, Trello, draw.io 
 - **Design:** Figma, Photoshop
 - **OS:** Windows, Linux
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonislh&layout=compact)
